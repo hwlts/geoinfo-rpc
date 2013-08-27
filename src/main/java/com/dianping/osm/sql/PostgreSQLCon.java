@@ -6,7 +6,7 @@ import java.sql.DriverManager;
 
 public class PostgreSQLCon
 {
-    private String url = "jdbc:postgresql://192.168.32.100:5432/china_gis";
+    private String url = "jdbc:postgresql://192.168.32.100:5432/test1";
     private String username = "postgres";
     private String password = "ws";
 
