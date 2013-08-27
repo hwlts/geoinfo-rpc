@@ -20,6 +20,7 @@
     <file path="/Main.java" changelist="39625bf5-8eee-4a4e-8f61-0f4035510ba7" time="1377581715630" ignored="false" />
     <file path="/PostgreSQLCon.java" changelist="39625bf5-8eee-4a4e-8f61-0f4035510ba7" time="1377590931422" ignored="false" />
     <file path="/MySQLCon.java" changelist="39625bf5-8eee-4a4e-8f61-0f4035510ba7" time="1377591058169" ignored="false" />
+    <file path="/addByTable.java" changelist="39625bf5-8eee-4a4e-8f61-0f4035510ba7" time="1377592727006" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,21 +81,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MySQLCon.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/sql/MySQLCon.java">
+      <file leaf-file-name="addByTable.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/insertIntoGis/addByTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="42" selection-start="594" selection-end="594" vertical-scroll-proportion="0.54401153">
+            <state line="41" column="25" selection-start="1268" selection-end="1268" vertical-scroll-proportion="0.7070707">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#371#386#0" expanded="true" />
+                <element signature="e#547#562#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PostgreSQLCon.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/sql/PostgreSQLCon.java">
+      <file leaf-file-name="MySQLCon.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/sql/MySQLCon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="63" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
+            <state line="31" column="42" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,9 +123,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dianping/osm/uitls/DBTableCluster.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dianping/osm/rpc/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dianping/osm/uitls/StringFilterTool.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dianping/osm/insertIntoGis/addByTable.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dianping/osm/sql/PostgreSQLCon.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dianping/osm/sql/MySQLCon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dianping/osm/insertIntoGis/addByTable.java" />
       </list>
     </option>
   </component>
@@ -167,28 +170,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="geoinfo-rpc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="geoinfo-rpc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: mysql:mysql-connector-java:5.1.6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysql-connector-java-5.1.6.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -298,6 +279,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sql" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geoinfo-rpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geoinfo-rpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="osm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="insertIntoGis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -537,7 +548,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -556,7 +567,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1924067" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1924067" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -715,13 +726,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/insertIntoGis/addByTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/uitls/StringFilterTool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="4" selection-start="267" selection-end="267" vertical-scroll-proportion="0.041847043">
@@ -731,7 +735,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/sql/PostgreSQLCon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="63" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
+        <state line="8" column="63" selection-start="184" selection-end="184" vertical-scroll-proportion="0.33477634">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -740,9 +744,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/sql/MySQLCon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="42" selection-start="594" selection-end="594" vertical-scroll-proportion="0.54401153">
+        <state line="31" column="42" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/insertIntoGis/addByTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="25" selection-start="1268" selection-end="1268" vertical-scroll-proportion="0.7070707">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#371#386#0" expanded="true" />
+            <element signature="e#547#562#0" expanded="true" />
           </folding>
         </state>
       </provider>
