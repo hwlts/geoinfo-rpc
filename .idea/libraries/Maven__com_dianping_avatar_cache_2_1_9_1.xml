@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dianping:avatar-cache:2.1.9.1">
+    <CLASSES>
+      <root url="jar://D:/apache-maven-3.1.0/conf/repository/com/dianping/avatar-cache/2.1.9.1/avatar-cache-2.1.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/apache-maven-3.1.0/conf/repository/com/dianping/avatar-cache/2.1.9.1/avatar-cache-2.1.9.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/apache-maven-3.1.0/conf/repository/com/dianping/avatar-cache/2.1.9.1/avatar-cache-2.1.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

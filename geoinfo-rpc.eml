@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_6" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<lib name="Maven: junit:junit:4.4" scope="TEST"/>
+	<lib name="Maven: org.apache.tomcat:tomcat-catalina:7.0.42" scope="PROVIDED"/>
+	<lib name="Maven: org.apache.tomcat:tomcat-servlet-api:7.0.42" scope="PROVIDED"/>
+	<lib name="Maven: org.apache.tomcat:tomcat-juli:7.0.42" scope="PROVIDED"/>
+	<lib name="Maven: org.apache.tomcat:tomcat-annotations-api:7.0.42" scope="PROVIDED"/>
+	<lib name="Maven: org.apache.tomcat:tomcat-api:7.0.42" scope="PROVIDED"/>
+	<lib name="Maven: org.apache.tomcat:tomcat-util:7.0.42" scope="PROVIDED"/>
+	<levels>
+		<level name="Maven: junit:junit:4.4" value="project"/>
+		<level name="Maven: com.dianping.lion:lion-client:0.2.2" value="project"/>
+		<level name="Maven: zookeeper:zookeeper:3.3.2" value="project"/>
+		<level name="Maven: com.dianping.lion:lion-dev:1.0.0" value="project"/>
+		<level name="Maven: com.dianping.dpsf:dpsf-net:1.6.1" value="project"/>
+		<level name="Maven: aspectj:aspectjrt:1.5.3" value="project"/>
+		<level name="Maven: com.google.protobuf:protobuf-java:2.3.0" value="project"/>
+		<level name="Maven: org.jboss.netty:netty:3.2.1.Final" value="project"/>
+		<level name="Maven: com.caucho:hessian:3.1.5" value="project"/>
+		<level name="Maven: org.apache:libthrift:0.4.0" value="project"/>
+		<level name="Maven: commons-lang:commons-lang:2.4" value="project"/>
+		<level name="Maven: com.dianping:dp-common-service:0.0.8" value="project"/>
+		<level name="Maven: com.dianping:dp-common-util:0.0.3" value="project"/>
+		<level name="Maven: commons-digester:commons-digester:2.0" value="project"/>
+		<level name="Maven: commons-beanutils:commons-beanutils:1.8.0" value="project"/>
+		<level name="Maven: commons-logging:commons-logging:99.0-does-not-exist" value="project"/>
+		<level name="Maven: com.dianping:avatar-logger:2.1.2" value="project"/>
+		<level name="Maven: com.dianping:avatar-core:2.1.9.1" value="project"/>
+		<level name="Maven: org.springframework:spring-core:2.5.6" value="project"/>
+		<level name="Maven: org.springframework:spring-context-support:2.5.6" value="project"/>
+		<level name="Maven: org.slf4j:slf4j-api:1.5.11" value="project"/>
+		<level name="Maven: org.slf4j:jcl-over-slf4j:1.5.11" value="project"/>
+		<level name="Maven: dom4j:dom4j:1.6.1" value="project"/>
+		<level name="Maven: xml-apis:xml-apis:1.0.b2" value="project"/>
+		<level name="Maven: org.apache.httpcomponents:httpclient:4.0.1" value="project"/>
+		<level name="Maven: org.apache.httpcomponents:httpcore:4.0.1" value="project"/>
+		<level name="Maven: commons-codec:commons-codec:1.3" value="project"/>
+		<level name="Maven: org.freemarker:freemarker:2.3.15" value="project"/>
+		<level name="Maven: org.springframework:spring-context:2.5.6" value="project"/>
+		<level name="Maven: aopalliance:aopalliance:1.0" value="project"/>
+		<level name="Maven: org.springframework:spring-beans:2.5.6" value="project"/>
+		<level name="Maven: org.slf4j:slf4j-log4j12:1.5.11" value="project"/>
+		<level name="Maven: log4j:log4j:1.2.14" value="project"/>
+		<level name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.7.1" value="project"/>
+		<level name="Maven: org.codehaus.jackson:jackson-core-asl:1.7.1" value="project"/>
+		<level name="Maven: com.dianping:encryption:1.0.1" value="project"/>
+		<level name="Maven: commons-collections:commons-collections:3.2" value="project"/>
+		<level name="Maven: com.dianping:avatar-cache:2.1.9.1" value="project"/>
+		<level name="Maven: com.dianping:avatar-tracker:2.1.9.1" value="project"/>
+		<level name="Maven: com.dianping:cache-builder:2.0.4" value="project"/>
+		<level name="Maven: com.dianping:cache-core:2.0.4" value="project"/>
+		<level name="Maven: net.sf.ehcache:ehcache-core:2.0.1" value="project"/>
+		<level name="Maven: net.spy:memcached:2.5" value="project"/>
+		<level name="Maven: net.spy:spy:2.4" value="project"/>
+		<level name="Maven: com.dianping:avatar-cache-remote:2.0.3" value="project"/>
+		<level name="Maven: com.dianping:avatar-common-remote:2.0.3" value="project"/>
+		<level name="Maven: org.springframework:spring-aop:2.5.6" value="project"/>
+		<level name="Maven: org.springframework:spring-web:2.5.6" value="project"/>
+		<level name="Maven: com.dianping.swallow:swallow-client:0.4.0" value="project"/>
+		<level name="Maven: org.mongodb:mongo-java-driver:2.6.3" value="project"/>
+		<level name="Maven: org.springframework:spring:2.5.6" value="project"/>
+		<level name="Maven: org.quartz-scheduler:quartz:1.8.5" value="project"/>
+		<level name="Maven: javax.transaction:jta:1.1" value="project"/>
+		<level name="Maven: com.dianping:avatar-dao:2.1.7" value="project"/>
+		<level name="Maven: com.dianping:avatar-interface:1.0.1" value="project"/>
+		<level name="Maven: org.springframework:spring-jdbc:2.5.6" value="project"/>
+		<level name="Maven: org.springframework:spring-tx:2.5.6" value="project"/>
+		<level name="Maven: org.springframework:spring-orm:2.5.6" value="project"/>
+		<level name="Maven: org.apache.ibatis:ibatis-sqlmap:2.3.4.726" value="project"/>
+		<level name="Maven: com.dianping.dpdl:dpdl-simple:0.1.1" value="project"/>
+		<level name="Maven: org.json:json:20090211" value="project"/>
+		<level name="Maven: c3p0:c3p0:0.9.1.2" value="project"/>
+		<level name="Maven: org.aspectj:aspectjlib:1.6.2" value="project"/>
+		<level name="Maven: org.aspectj:aspectjrt:1.6.8" value="project"/>
+		<level name="Maven: org.aspectj:aspectjweaver:1.6.7" value="project"/>
+		<level name="Maven: cglib:cglib:2.2" value="project"/>
+		<level name="Maven: asm:asm:3.1" value="project"/>
+		<level name="Maven: mysql:mysql-connector-java:5.1.6" value="project"/>
+		<level name="Maven: commons-io:commons-io:1.3.2" value="project"/>
+		<level name="Maven: org.mongodb:mongo-java-driver-ext:2.5.3" value="project"/>
+		<level name="Maven: org.springframework:spring-test:2.5.6" value="project"/>
+		<level name="Maven: com.dianping.cat:cat-core:0.4.0" value="project"/>
+		<level name="Maven: com.site.common:lookup:1.1.3" value="project"/>
+		<level name="Maven: org.codehaus.plexus:plexus-container-default:1.5.5" value="project"/>
+		<level name="Maven: org.codehaus.plexus:plexus-utils:1.4.5" value="project"/>
+		<level name="Maven: org.codehaus.plexus:plexus-classworlds:2.2.2" value="project"/>
+		<level name="Maven: org.apache.xbean:xbean-reflect:3.4" value="project"/>
+		<level name="Maven: commons-logging:commons-logging-api:1.1" value="project"/>
+		<level name="Maven: com.google.collections:google-collections:1.0" value="project"/>
+		<level name="Maven: com.dianping.hawk:hawk-client:0.6.7" value="project"/>
+		<level name="Maven: com.thoughtworks.xstream:xstream:1.3.1" value="project"/>
+		<level name="Maven: xpp3:xpp3_min:1.1.4c" value="project"/>
+		<level name="Maven: com.dianping:geoinfo-api:1.0.6" value="project"/>
+		<level name="Maven: org.apache.tomcat:tomcat-catalina:7.0.42" value="project"/>
+		<level name="Maven: org.apache.tomcat:tomcat-servlet-api:7.0.42" value="project"/>
+		<level name="Maven: org.apache.tomcat:tomcat-juli:7.0.42" value="project"/>
+		<level name="Maven: org.apache.tomcat:tomcat-annotations-api:7.0.42" value="project"/>
+		<level name="Maven: org.apache.tomcat:tomcat-api:7.0.42" value="project"/>
+		<level name="Maven: org.apache.tomcat:tomcat-util:7.0.42" value="project"/>
+		<level name="Maven: postgresql:postgresql:9.1-901.jdbc4" value="project"/>
+	</levels>
+</component>

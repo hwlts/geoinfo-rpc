@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: net.spy:memcached:2.5">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/net/spy/memcached/2.5/memcached-2.5.jar" />
+  </library>
+  <library name="Maven: org.quartz-scheduler:quartz:1.8.5">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/quartz-scheduler/quartz/1.8.5/quartz-1.8.5.jar" />
+  </library>
+  <library name="Maven: com.google.protobuf:protobuf-java:2.3.0">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/google/protobuf/protobuf-java/2.3.0/protobuf-java-2.3.0.jar" />
+  </library>
+  <library name="Maven: commons-beanutils:commons-beanutils:1.8.0">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpcore:4.0.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1.jar" />
+  </library>
+  <library name="Maven: xml-apis:xml-apis:1.0.b2">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-log4j12:1.5.11">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/slf4j/slf4j-log4j12/1.5.11/slf4j-log4j12-1.5.11.jar" />
+  </library>
+  <library name="Maven: commons-collections:commons-collections:3.2">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/commons-collections/commons-collections/3.2/commons-collections-3.2.jar" />
+  </library>
+  <library name="Maven: com.google.collections:google-collections:1.0">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/google/collections/google-collections/1.0/google-collections-1.0.jar" />
+  </library>
+  <library name="Maven: c3p0:c3p0:0.9.1.2">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2.jar" />
+  </library>
+  <library name="Maven: com.dianping:avatar-dao:2.1.7">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/avatar-dao/2.1.7/avatar-dao-2.1.7.jar" />
+  </library>
+  <library name="Maven: com.dianping:avatar-tracker:2.1.9.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/avatar-tracker/2.1.9.1/avatar-tracker-2.1.9.1.jar" />
+  </library>
+  <library name="Maven: org.codehaus.plexus:plexus-classworlds:2.2.2">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/codehaus/plexus/plexus-classworlds/2.2.2/plexus-classworlds-2.2.2.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-core:2.5.6">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/springframework/spring-core/2.5.6/spring-core-2.5.6.jar" />
+  </library>
+  <library name="Maven: com.dianping:cache-core:2.0.4">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/cache-core/2.0.4/cache-core-2.0.4.jar" />
+  </library>
+  <library name="Maven: org.aspectj:aspectjweaver:1.6.7">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/aspectj/aspectjweaver/1.6.7/aspectjweaver-1.6.7.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aop:2.5.6">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/springframework/spring-aop/2.5.6/spring-aop-2.5.6.jar" />
+  </library>
+  <library name="Maven: com.dianping:dp-common-service:0.0.8">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/dp-common-service/0.0.8/dp-common-service-0.0.8.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging:99.0-does-not-exist">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/commons-logging/commons-logging/99.0-does-not-exist/commons-logging-99.0-does-not-exist.jar" />
+  </library>
+  <library name="Maven: org.codehaus.plexus:plexus-container-default:1.5.5">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-test:2.5.6">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/springframework/spring-test/2.5.6/spring-test-2.5.6.jar" />
+  </library>
+  <library name="Maven: org.aspectj:aspectjrt:1.6.8">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/aspectj/aspectjrt/1.6.8/aspectjrt-1.6.8.jar" />
+  </library>
+  <library name="Maven: net.spy:spy:2.4">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/net/spy/spy/2.4/spy-2.4.jar" />
+  </library>
+  <library name="Maven: commons-digester:commons-digester:2.0">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/commons-digester/commons-digester/2.0/commons-digester-2.0.jar" />
+  </library>
+  <library name="Maven: org.apache:libthrift:0.4.0">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/apache/libthrift/0.4.0/libthrift-0.4.0.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-web:2.5.6">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/springframework/spring-web/2.5.6/spring-web-2.5.6.jar" />
+  </library>
+  <library name="Maven: commons-codec:commons-codec:1.3">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/commons-codec/commons-codec/1.3/commons-codec-1.3.jar" />
+  </library>
+  <library name="Maven: com.dianping:geoinfo-api:1.0.3">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/geoinfo-api/1.0.3/geoinfo-api-1.0.3.jar" />
+  </library>
+  <library name="Maven: junit:junit:4.4">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/junit/junit/4.4/junit-4.4.jar" />
+  </library>
+  <library name="Maven: com.caucho:hessian:3.1.5">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/caucho/hessian/3.1.5/hessian-3.1.5.jar" />
+  </library>
+  <library name="Maven: com.dianping:encryption:1.0.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/encryption/1.0.1/encryption-1.0.1.jar" />
+  </library>
+  <library name="Maven: aopalliance:aopalliance:1.0">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" />
+  </library>
+  <library name="Maven: com.dianping:avatar-cache-remote:2.0.3">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/avatar-cache-remote/2.0.3/avatar-cache-remote-2.0.3.jar" />
+  </library>
+  <library name="Maven: asm:asm:3.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/asm/asm/3.1/asm-3.1.jar" />
+  </library>
+  <library name="Maven: com.dianping:avatar-core:2.1.9.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/avatar-core/2.1.9.1/avatar-core-2.1.9.1.jar" />
+  </library>
+  <library name="Maven: net.sf.ehcache:ehcache-core:2.0.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/net/sf/ehcache/ehcache-core/2.0.1/ehcache-core-2.0.1.jar" />
+  </library>
+  <library name="Maven: commons-lang:commons-lang:2.4">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/commons-lang/commons-lang/2.4/commons-lang-2.4.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.5.11">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/slf4j/slf4j-api/1.5.11/slf4j-api-1.5.11.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-context:2.5.6">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/springframework/spring-context/2.5.6/spring-context-2.5.6.jar" />
+  </library>
+  <library name="Maven: com.dianping.dpsf:dpsf-net:1.6.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/dpsf/dpsf-net/1.6.1/dpsf-net-1.6.1.jar" />
+  </library>
+  <library name="Maven: com.site.common:lookup:1.1.3">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/site/common/lookup/1.1.3/lookup-1.1.3.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.7.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.jar" />
+  </library>
+  <library name="Maven: com.dianping:avatar-common-remote:2.0.3">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/avatar-common-remote/2.0.3/avatar-common-remote-2.0.3.jar" />
+  </library>
+  <library name="Maven: xpp3:xpp3_min:1.1.4c">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar" />
+  </library>
+  <library name="Maven: org.apache.xbean:xbean-reflect:3.4">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-orm:2.5.6">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/springframework/spring-orm/2.5.6/spring-orm-2.5.6.jar" />
+  </library>
+  <library name="Maven: com.dianping:avatar-logger:2.1.2">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/avatar-logger/2.1.2/avatar-logger-2.1.2.jar" />
+  </library>
+  <library name="Maven: com.dianping:avatar-interface:1.0.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/avatar-interface/1.0.1/avatar-interface-1.0.1.jar" />
+  </library>
+  <library name="Maven: com.dianping.lion:lion-client:0.2.2">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/lion/lion-client/0.2.2/lion-client-0.2.2.jar" />
+  </library>
+  <library name="Maven: zookeeper:zookeeper:3.3.2">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/zookeeper/zookeeper/3.3.2/zookeeper-3.3.2.jar" />
+  </library>
+  <library name="Maven: mysql:mysql-connector-java:5.1.6">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring:2.5.6">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/springframework/spring/2.5.6/spring-2.5.6.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-core-asl:1.7.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.jar" />
+  </library>
+  <library name="Maven: com.dianping.dpdl:dpdl-simple:0.1.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/dpdl/dpdl-simple/0.1.1/dpdl-simple-0.1.1.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-beans:2.5.6">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/springframework/spring-beans/2.5.6/spring-beans-2.5.6.jar" />
+  </library>
+  <library name="Maven: com.dianping.hawk:hawk-client:0.6.7">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/hawk/hawk-client/0.6.7/hawk-client-0.6.7.jar" />
+  </library>
+  <library name="Maven: log4j:log4j:1.2.14">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/log4j/log4j/1.2.14/log4j-1.2.14.jar" />
+  </library>
+  <library name="Maven: com.dianping.lion:lion-dev:1.0.0">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/lion/lion-dev/1.0.0/lion-dev-1.0.0.jar" />
+  </library>
+  <library name="Maven: org.json:json:20090211">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/json/json/20090211/json-20090211.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-context-support:2.5.6">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6.jar" />
+  </library>
+  <library name="Maven: com.dianping.cat:cat-core:0.4.0">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/cat/cat-core/0.4.0/cat-core-0.4.0.jar" />
+  </library>
+  <library name="Maven: org.freemarker:freemarker:2.3.15">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/freemarker/freemarker/2.3.15/freemarker-2.3.15.jar" />
+  </library>
+  <library name="Maven: com.dianping.swallow:swallow-client:0.4.0">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/swallow/swallow-client/0.4.0/swallow-client-0.4.0.jar" />
+  </library>
+  <library name="Maven: com.dianping:avatar-cache:2.1.9.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/avatar-cache/2.1.9.1/avatar-cache-2.1.9.1.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpclient:4.0.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/apache/httpcomponents/httpclient/4.0.1/httpclient-4.0.1.jar" />
+  </library>
+  <library name="Maven: org.codehaus.plexus:plexus-utils:1.4.5">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/codehaus/plexus/plexus-utils/1.4.5/plexus-utils-1.4.5.jar" />
+  </library>
+  <library name="Maven: com.dianping:dp-common-util:0.0.3">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/dp-common-util/0.0.3/dp-common-util-0.0.3.jar" />
+  </library>
+  <library name="Maven: javax.transaction:jta:1.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/javax/transaction/jta/1.1/jta-1.1.jar" />
+  </library>
+  <library name="Maven: com.thoughtworks.xstream:xstream:1.3.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-tx:2.5.6">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/springframework/spring-tx/2.5.6/spring-tx-2.5.6.jar" />
+  </library>
+  <library name="Maven: org.apache.ibatis:ibatis-sqlmap:2.3.4.726">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/apache/ibatis/ibatis-sqlmap/2.3.4.726/ibatis-sqlmap-2.3.4.726.jar" />
+  </library>
+  <library name="Maven: commons-io:commons-io:1.3.2">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar" />
+  </library>
+  <library name="Maven: com.dianping:cache-builder:2.0.4">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/com/dianping/cache-builder/2.0.4/cache-builder-2.0.4.jar" />
+  </library>
+  <library name="Maven: org.aspectj:aspectjlib:1.6.2">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/aspectj/aspectjlib/1.6.2/aspectjlib-1.6.2.jar" />
+  </library>
+  <library name="Maven: org.slf4j:jcl-over-slf4j:1.5.11">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/slf4j/jcl-over-slf4j/1.5.11/jcl-over-slf4j-1.5.11.jar" />
+  </library>
+  <library name="Maven: org.mongodb:mongo-java-driver-ext:2.5.3">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/mongodb/mongo-java-driver-ext/2.5.3/mongo-java-driver-ext-2.5.3.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging-api:1.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.jar" />
+  </library>
+  <library name="Maven: cglib:cglib:2.2">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/cglib/cglib/2.2/cglib-2.2.jar" />
+  </library>
+  <library name="Maven: dom4j:dom4j:1.6.1">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" />
+  </library>
+  <library name="Maven: org.jboss.netty:netty:3.2.1.Final">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/jboss/netty/netty/3.2.1.Final/netty-3.2.1.Final.jar" />
+  </library>
+  <library name="Maven: org.mongodb:mongo-java-driver:2.6.3">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/mongodb/mongo-java-driver/2.6.3/mongo-java-driver-2.6.3.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-jdbc:2.5.6">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/org/springframework/spring-jdbc/2.5.6/spring-jdbc-2.5.6.jar" />
+  </library>
+  <library name="Maven: aspectj:aspectjrt:1.5.3">
+    <archive path="D:/apache-maven-3.1.0/conf/repository/aspectj/aspectjrt/1.5.3/aspectjrt-1.5.3.jar" />
+  </library>
+  <library name="Connector J 5.1">
+    <archive path="D:/Program Files/MySQL/Connector J 5.1.25/src.zip" />
+    <archive path="D:/Program Files/MySQL/Connector J 5.1.25/mysql-connector-java-5.1.25-bin.jar" />
+  </library>
+  <library name="pgJDBC">
+    <archive path="D:/Program Files (x86)/PostgreSQL/pgJDBC/postgresql-9.2-1002.jdbc4.jar" />
+  </library>
+</eclipse-userlibraries>
+
