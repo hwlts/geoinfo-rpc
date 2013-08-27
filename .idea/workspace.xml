@@ -20,7 +20,7 @@
     <file path="/Main.java" changelist="39625bf5-8eee-4a4e-8f61-0f4035510ba7" time="1377581715630" ignored="false" />
     <file path="/PostgreSQLCon.java" changelist="39625bf5-8eee-4a4e-8f61-0f4035510ba7" time="1377590931422" ignored="false" />
     <file path="/MySQLCon.java" changelist="39625bf5-8eee-4a4e-8f61-0f4035510ba7" time="1377591058169" ignored="false" />
-    <file path="/addByTable.java" changelist="39625bf5-8eee-4a4e-8f61-0f4035510ba7" time="1377592727006" ignored="false" />
+    <file path="/addByTable.java" changelist="39625bf5-8eee-4a4e-8f61-0f4035510ba7" time="1377595008791" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,11 +84,11 @@
       <file leaf-file-name="addByTable.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/insertIntoGis/addByTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="25" selection-start="1268" selection-end="1268" vertical-scroll-proportion="0.7070707">
+            <state line="39" column="67" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.44558823">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#371#386#0" expanded="true" />
-                <element signature="e#547#562#0" expanded="true" />
+                <element signature="e#278#293#0" expanded="true" />
+                <element signature="e#454#469#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -323,7 +323,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/xjsDB" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -753,11 +753,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/insertIntoGis/addByTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="25" selection-start="1268" selection-end="1268" vertical-scroll-proportion="0.7070707">
+        <state line="39" column="67" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.44558823">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#371#386#0" expanded="true" />
-            <element signature="e#547#562#0" expanded="true" />
+            <element signature="e#278#293#0" expanded="true" />
+            <element signature="e#454#469#0" expanded="true" />
           </folding>
         </state>
       </provider>

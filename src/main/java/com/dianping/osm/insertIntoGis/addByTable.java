@@ -3,10 +3,7 @@ package com.dianping.osm.insertIntoGis;
 import com.dianping.osm.sql.MySQLCon;
 import com.dianping.osm.sql.PostgreSQLCon;
 
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -40,6 +37,15 @@ public class addByTable
             while (mysqlRs.next())
             {
                 String s;
+                String selectSqlStr = "SELECT * FROM "+"ST_Distance";
+                ResultSet isNear = selectSt.executeQuery(selectSqlStr);
+                if (!isNear.next())
+                {
+                    String insertSqlStr = "";
+                    PreparedStatement insertSt = postgresqlCon.prepareStatement(insertSqlStr);
+                    insertSt.execute();
+                    insertSt.close();
+                }
             }
         }
     }
