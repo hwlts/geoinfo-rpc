@@ -106,21 +106,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="addByTable.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/insertIntoGis/addByTable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="20" selection-start="2237" selection-end="2237" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/rpc/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="13" selection-start="933" selection-end="933" vertical-scroll-proportion="-0.5672083">
+            <state line="29" column="3" selection-start="919" selection-end="919" vertical-scroll-proportion="0.41802067">
               <folding />
             </state>
           </provider>
@@ -798,7 +787,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/insertIntoGis/addByTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="20" selection-start="2237" selection-end="2237" vertical-scroll-proportion="0.0">
+        <state line="61" column="20" selection-start="2237" selection-end="2237" vertical-scroll-proportion="1.070901">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -807,7 +796,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/rpc/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="13" selection-start="933" selection-end="933" vertical-scroll-proportion="-0.5672083">
+        <state line="29" column="3" selection-start="919" selection-end="919" vertical-scroll-proportion="0.41802067">
           <folding />
         </state>
       </provider>
