@@ -120,7 +120,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/rpc/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="13" selection-start="933" selection-end="933" vertical-scroll-proportion="0.3323486">
+            <state line="30" column="13" selection-start="933" selection-end="933" vertical-scroll-proportion="-0.5672083">
               <folding />
             </state>
           </provider>
@@ -807,7 +807,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dianping/osm/rpc/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="13" selection-start="933" selection-end="933" vertical-scroll-proportion="0.3323486">
+        <state line="30" column="13" selection-start="933" selection-end="933" vertical-scroll-proportion="-0.5672083">
           <folding />
         </state>
       </provider>
