@@ -174,62 +174,6 @@ public class Main extends JFrame implements ActionListener {
         return offset1;
     }
 
-    public static void searchByPoint(double la, double lo, double distance) {
-
-        try {
-            Class.forName("org.postgresql.Driver").newInstance();
-            String url = "jdbc:postgresql://localhost:5432/postgis20";
-            Connection con = DriverManager.getConnection(url, "postgres", "ws");
-            Statement st = con.createStatement();
-
-            // select from way_tags table
-            String sql = "SELECT way_id,v FROM way_tags where k='name' and way_id IN(SELECT way_id FROM way_nodes where node_id IN(SELECT id FROM nodes where ST_distance_sphere(nodes.geom::geometry,'POINT("
-                    + lo
-                    + " "
-                    + la
-                    + ")')<"
-                    + distance
-                    + " ORDER BY ST_distance_sphere(nodes.geom::geometry,'POINT("
-                    + lo + " " + la + ")')ASC));";
-            ResultSet rs = st.executeQuery(sql);
-            while (rs.next()) {
-                System.out.print(rs.getString(1) + ",");
-                System.out.println(rs.getString(2));
-                // System.out.println(rs.getString(3));
-            }
-
-            System.out.println("-----------------------");
-
-            // select from node_tags table
-            sql = "SELECT node_id,node_tags.v FROM node_tags where node_tags.k='name' and node_tags.node_id IN(SELECT id FROM nodes where ST_distance_sphere(nodes.geom::geometry,'POINT("
-                    + lo + " " + la + ")')<" + distance + ") ;";
-            rs = st.executeQuery(sql);
-            while (rs.next()) {
-                System.out.print(rs.getString(1) + ",");
-                System.out.println(rs.getString(2));
-                // System.out.println(rs.getString(3));
-            }
-
-            rs.close();
-            st.close();
-            con.close();
-
-        } catch (Exception ee) {
-            System.out.print(ee.getMessage());
-        }
-
-    }
-
-    public static void searchByPoint_3(double la, double lo) {
-        final double inc = 500;
-        int down = 0;
-        int up = 500;
-        while (!searchByPoint_1(la, lo, down, up)) {
-            down += inc;
-            up += inc;
-        }
-    }
-
     public static boolean searchByPoint_1(double la, double lo, double down,
                                           double up) {
         boolean haveResults = false;
