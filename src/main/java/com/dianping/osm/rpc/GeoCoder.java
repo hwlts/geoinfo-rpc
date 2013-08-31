@@ -5,6 +5,8 @@ import com.dianping.osm.sql.PostgreSQLCon;
 
 import java.sql.*;
 
+/*DP_RGC_Service*/
+
 public class GeoCoder
 {
     class AddAcc
